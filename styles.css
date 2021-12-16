@@ -1,0 +1,55 @@
+body{
+    background-color: lightseagreen;
+}
+nav{
+    margin-bottom: 20px;
+}
+
+.navi{
+    display: inline-block;
+    background-color: green;
+    padding: 20px;
+}
+
+.sidebar{
+    width: 29%;
+    height: 750px;
+    background-color: indigo;
+    float: left;
+}
+
+.main{
+    width: 70%;
+    height: 750px;
+    background-color: lightcoral;
+    float: right;
+}
+
+.topSidebar{
+    height: 200px;
+    background-color: tomato;
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.bottomSidebar{
+    height: 550px;
+    background-color: turquoise;
+    padding: 20px 0 10px 20px;
+}
+
+#tree{
+    width: 200px;
+    border-radius: 50%;
+}
+
+.char{
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0;
+}
+
+ul{
+    line-height: 150%;
+}
